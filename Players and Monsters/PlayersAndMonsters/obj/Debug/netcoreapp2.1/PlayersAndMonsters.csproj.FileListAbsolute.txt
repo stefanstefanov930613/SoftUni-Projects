@@ -1,0 +1,10 @@
+C:\Users\Chefo1993\Desktop\Players and Monsters\PlayersAndMonsters\bin\Debug\netcoreapp2.1\PlayersAndMonsters.deps.json
+C:\Users\Chefo1993\Desktop\Players and Monsters\PlayersAndMonsters\bin\Debug\netcoreapp2.1\PlayersAndMonsters.runtimeconfig.json
+C:\Users\Chefo1993\Desktop\Players and Monsters\PlayersAndMonsters\bin\Debug\netcoreapp2.1\PlayersAndMonsters.runtimeconfig.dev.json
+C:\Users\Chefo1993\Desktop\Players and Monsters\PlayersAndMonsters\bin\Debug\netcoreapp2.1\PlayersAndMonsters.dll
+C:\Users\Chefo1993\Desktop\Players and Monsters\PlayersAndMonsters\bin\Debug\netcoreapp2.1\PlayersAndMonsters.pdb
+C:\Users\Chefo1993\Desktop\Players and Monsters\PlayersAndMonsters\obj\Debug\netcoreapp2.1\PlayersAndMonsters.csproj.CoreCompileInputs.cache
+C:\Users\Chefo1993\Desktop\Players and Monsters\PlayersAndMonsters\obj\Debug\netcoreapp2.1\PlayersAndMonsters.AssemblyInfoInputs.cache
+C:\Users\Chefo1993\Desktop\Players and Monsters\PlayersAndMonsters\obj\Debug\netcoreapp2.1\PlayersAndMonsters.AssemblyInfo.cs
+C:\Users\Chefo1993\Desktop\Players and Monsters\PlayersAndMonsters\obj\Debug\netcoreapp2.1\PlayersAndMonsters.dll
+C:\Users\Chefo1993\Desktop\Players and Monsters\PlayersAndMonsters\obj\Debug\netcoreapp2.1\PlayersAndMonsters.pdb
