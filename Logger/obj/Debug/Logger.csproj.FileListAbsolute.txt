@@ -1,0 +1,7 @@
+C:\Users\Chefo1993\source\repos\SOLID\Logger\bin\Debug\Logger.exe.config
+C:\Users\Chefo1993\source\repos\SOLID\Logger\bin\Debug\Logger.exe
+C:\Users\Chefo1993\source\repos\SOLID\Logger\bin\Debug\Logger.pdb
+C:\Users\Chefo1993\source\repos\SOLID\Logger\obj\Debug\Logger.csprojAssemblyReference.cache
+C:\Users\Chefo1993\source\repos\SOLID\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+C:\Users\Chefo1993\source\repos\SOLID\Logger\obj\Debug\Logger.exe
+C:\Users\Chefo1993\source\repos\SOLID\Logger\obj\Debug\Logger.pdb
