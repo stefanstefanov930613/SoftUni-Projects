@@ -1,0 +1,11 @@
+C:\Users\Chefo1993\source\repos\WindowsCalculator\WindowsCalculator\bin\Debug\WindowsCalculator.exe.config
+C:\Users\Chefo1993\source\repos\WindowsCalculator\WindowsCalculator\bin\Debug\WindowsCalculator.exe
+C:\Users\Chefo1993\source\repos\WindowsCalculator\WindowsCalculator\bin\Debug\WindowsCalculator.pdb
+C:\Users\Chefo1993\source\repos\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.csprojAssemblyReference.cache
+C:\Users\Chefo1993\source\repos\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.Form1.resources
+C:\Users\Chefo1993\source\repos\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.Properties.Resources.resources
+C:\Users\Chefo1993\source\repos\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.csproj.GenerateResource.cache
+C:\Users\Chefo1993\source\repos\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Chefo1993\source\repos\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.exe
+C:\Users\Chefo1993\source\repos\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.pdb
+C:\Users\Chefo1993\source\repos\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.sourcelink.json
