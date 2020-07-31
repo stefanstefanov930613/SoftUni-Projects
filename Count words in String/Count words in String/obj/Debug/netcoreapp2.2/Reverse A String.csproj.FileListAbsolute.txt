@@ -1,0 +1,11 @@
+C:\Users\Chefo1993\Desktop\Reverse A String\Reverse A String\bin\Debug\netcoreapp2.2\Reverse A String.deps.json
+C:\Users\Chefo1993\Desktop\Reverse A String\Reverse A String\bin\Debug\netcoreapp2.2\Reverse A String.runtimeconfig.json
+C:\Users\Chefo1993\Desktop\Reverse A String\Reverse A String\bin\Debug\netcoreapp2.2\Reverse A String.runtimeconfig.dev.json
+C:\Users\Chefo1993\Desktop\Reverse A String\Reverse A String\bin\Debug\netcoreapp2.2\Reverse A String.dll
+C:\Users\Chefo1993\Desktop\Reverse A String\Reverse A String\bin\Debug\netcoreapp2.2\Reverse A String.pdb
+C:\Users\Chefo1993\Desktop\Reverse A String\Reverse A String\obj\Debug\netcoreapp2.2\Reverse A String.csprojAssemblyReference.cache
+C:\Users\Chefo1993\Desktop\Reverse A String\Reverse A String\obj\Debug\netcoreapp2.2\Reverse A String.csproj.CoreCompileInputs.cache
+C:\Users\Chefo1993\Desktop\Reverse A String\Reverse A String\obj\Debug\netcoreapp2.2\Reverse A String.AssemblyInfoInputs.cache
+C:\Users\Chefo1993\Desktop\Reverse A String\Reverse A String\obj\Debug\netcoreapp2.2\Reverse A String.AssemblyInfo.cs
+C:\Users\Chefo1993\Desktop\Reverse A String\Reverse A String\obj\Debug\netcoreapp2.2\Reverse A String.dll
+C:\Users\Chefo1993\Desktop\Reverse A String\Reverse A String\obj\Debug\netcoreapp2.2\Reverse A String.pdb
