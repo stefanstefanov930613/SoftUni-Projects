@@ -1,0 +1,364 @@
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\ApplicationInsights.config
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\Уцели плодовете(графично).dll.config
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\Уцели плодовете(графично).dll
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\Уцели плодовете(графично).pdb
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\roslyn\csc.exe
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\roslyn\csc.exe.config
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\roslyn\csc.rsp
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\roslyn\csi.exe
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\roslyn\csi.exe.config
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\roslyn\csi.rsp
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\roslyn\System.AppContext.dll
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\roslyn\System.Console.dll
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\roslyn\System.IO.Compression.dll
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\roslyn\System.IO.Pipes.dll
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\roslyn\System.Security.Claims.dll
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\roslyn\System.ValueTuple.dll
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\roslyn\System.Xml.XPath.dll
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\roslyn\vbc.exe
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\roslyn\vbc.exe.config
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\roslyn\vbc.rsp
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\roslyn\VBCSCompiler.exe
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\Antlr3.Runtime.dll
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\Microsoft.AI.Web.dll
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\Microsoft.ApplicationInsights.dll
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\Newtonsoft.Json.dll
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\System.Web.Helpers.dll
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\System.Web.Mvc.dll
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\System.Web.Optimization.dll
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\System.Web.Razor.dll
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\System.Web.WebPages.Deployment.dll
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\System.Web.WebPages.dll
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\System.Web.WebPages.Razor.dll
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\WebGrease.dll
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\System.Web.Helpers.xml
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\System.Web.Mvc.xml
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\System.Web.Optimization.xml
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\System.Web.Razor.xml
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\System.Web.WebPages.xml
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\System.Web.WebPages.Deployment.xml
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\System.Web.WebPages.Razor.xml
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\Newtonsoft.Json.xml
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\Antlr3.Runtime.pdb
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\Microsoft.AI.Web.xml
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\obj\Debug\Уцели плодовете(графично).csprojAssemblyReference.cache
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\obj\Debug\Уцели плодовете(графично).csproj.CoreCompileInputs.cache
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\obj\Debug\Уцели плодовете(графично).csproj.CopyComplete
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\obj\Debug\Уцели плодовете(графично).dll
+C:\Users\STEFAN\source\repos\Solution1\Уцели плодовете(графично)\obj\Debug\Уцели плодовете(графично).pdb
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\ApplicationInsights.config
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\Уцели плодовете(графично).dll.config
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\Уцели плодовете(графично).dll
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\Уцели плодовете(графично).pdb
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\csc.exe
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\csc.exe.config
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\csc.rsp
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\csi.exe
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\csi.exe.config
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\csi.rsp
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.AppContext.dll
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.Console.dll
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.IO.Compression.dll
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.IO.Pipes.dll
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.Security.Claims.dll
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.ValueTuple.dll
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.Xml.XPath.dll
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\vbc.exe
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\vbc.exe.config
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\vbc.rsp
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\VBCSCompiler.exe
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\Antlr3.Runtime.dll
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\Microsoft.AI.Web.dll
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\Microsoft.ApplicationInsights.dll
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\Newtonsoft.Json.dll
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\System.Web.Helpers.dll
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\System.Web.Mvc.dll
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\System.Web.Optimization.dll
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\System.Web.Razor.dll
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\System.Web.WebPages.Deployment.dll
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\System.Web.WebPages.dll
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\System.Web.WebPages.Razor.dll
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\WebGrease.dll
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\System.Web.Helpers.xml
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\System.Web.Mvc.xml
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\System.Web.Optimization.xml
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\System.Web.Razor.xml
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\System.Web.WebPages.xml
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\System.Web.WebPages.Deployment.xml
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\System.Web.WebPages.Razor.xml
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\Newtonsoft.Json.xml
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\Antlr3.Runtime.pdb
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\Microsoft.AI.Web.xml
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\obj\Debug\Уцели плодовете(графично).csprojAssemblyReference.cache
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\obj\Debug\Уцели плодовете(графично).csproj.CoreCompileInputs.cache
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\obj\Debug\Уцели плодовете(графично).csproj.CopyComplete
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\obj\Debug\Уцели плодовете(графично).dll
+C:\Users\STEFAN\source\repos\Simple calculations Stefan\Уцели плодовете(графично)\obj\Debug\Уцели плодовете(графично).pdb
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\ApplicationInsights.config
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\Уцели плодовете(графично).dll.config
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\Уцели плодовете(графично).dll
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\Уцели плодовете(графично).pdb
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\csc.exe
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\csc.exe.config
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\csc.rsp
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\csi.exe
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\csi.exe.config
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\csi.rsp
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.AppContext.dll
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.Collections.Immutable.dll
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.Console.dll
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.IO.Compression.dll
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.IO.FileSystem.dll
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.IO.Pipes.dll
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.Reflection.Metadata.dll
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.Security.AccessControl.dll
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.Security.Claims.dll
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.ValueTuple.dll
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.Xml.XPath.dll
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\vbc.exe
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\vbc.exe.config
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\vbc.rsp
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\VBCSCompiler.exe
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\VBCSCompiler.exe.config
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\Antlr3.Runtime.dll
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\Microsoft.AI.DependencyCollector.dll
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\Microsoft.AI.Web.dll
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\Microsoft.AI.WindowsServer.dll
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\Microsoft.ApplicationInsights.dll
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\Microsoft.Web.Infrastructure.dll
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\Newtonsoft.Json.dll
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\System.Web.Helpers.dll
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\System.Web.Mvc.dll
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\System.Web.Optimization.dll
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\System.Web.Razor.dll
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\System.Web.WebPages.Deployment.dll
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\System.Web.WebPages.dll
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\System.Web.WebPages.Razor.dll
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\WebGrease.dll
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\System.Web.Helpers.xml
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\System.Web.Mvc.xml
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\System.Web.Optimization.xml
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\System.Web.Razor.xml
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\System.Web.WebPages.xml
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\System.Web.WebPages.Deployment.xml
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\System.Web.WebPages.Razor.xml
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\Newtonsoft.Json.xml
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\Antlr3.Runtime.pdb
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\Microsoft.AI.DependencyCollector.xml
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\Microsoft.AI.WindowsServer.xml
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\Microsoft.AI.Web.xml
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\obj\Debug\Уцели плодовете(графично).csprojAssemblyReference.cache
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\obj\Debug\Уцели плодовете(графично).csproj.CoreCompileInputs.cache
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\obj\Debug\Уцели плодовете(графично).csproj.CopyComplete
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\obj\Debug\Уцели плодовете(графично).dll
+C:\Programming\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\obj\Debug\Уцели плодовете(графично).pdb
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\ApplicationInsights.config
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\Уцели плодовете(графично).dll.config
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\Уцели плодовете(графично).dll
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\Уцели плодовете(графично).pdb
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\csc.exe
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\csc.exe.config
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\csc.rsp
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\csi.exe
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\csi.exe.config
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\csi.rsp
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.AppContext.dll
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.Collections.Immutable.dll
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.Console.dll
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.IO.Compression.dll
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.IO.FileSystem.dll
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.IO.Pipes.dll
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.Reflection.Metadata.dll
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.Security.AccessControl.dll
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.Security.Claims.dll
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.ValueTuple.dll
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.Xml.XPath.dll
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\vbc.exe
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\vbc.exe.config
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\vbc.rsp
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\VBCSCompiler.exe
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\roslyn\VBCSCompiler.exe.config
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\Antlr3.Runtime.dll
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\Microsoft.AI.DependencyCollector.dll
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\Microsoft.AI.Web.dll
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\Microsoft.AI.WindowsServer.dll
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\Microsoft.ApplicationInsights.dll
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\Microsoft.Web.Infrastructure.dll
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\Newtonsoft.Json.dll
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\System.Web.Helpers.dll
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\System.Web.Mvc.dll
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\System.Web.Optimization.dll
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\System.Web.Razor.dll
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\System.Web.WebPages.Deployment.dll
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\System.Web.WebPages.dll
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\System.Web.WebPages.Razor.dll
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\WebGrease.dll
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\System.Web.Helpers.xml
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\System.Web.Mvc.xml
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\System.Web.Optimization.xml
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\System.Web.Razor.xml
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\System.Web.WebPages.xml
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\System.Web.WebPages.Deployment.xml
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\System.Web.WebPages.Razor.xml
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\Newtonsoft.Json.xml
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\Antlr3.Runtime.pdb
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\Microsoft.AI.DependencyCollector.xml
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\Microsoft.AI.WindowsServer.xml
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\Microsoft.AI.Web.xml
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\obj\Debug\Уцели плодовете(графично).csprojAssemblyReference.cache
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\obj\Debug\Уцели плодовете(графично).csproj.CoreCompileInputs.cache
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\obj\Debug\Уцели плодовете(графично).csproj.CopyComplete
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\obj\Debug\Уцели плодовете(графично).dll
+C:\Programming Exercises\Visual studio projects\Simple calculations Stefan\Уцели плодовете(графично)\obj\Debug\Уцели плодовете(графично).pdb
