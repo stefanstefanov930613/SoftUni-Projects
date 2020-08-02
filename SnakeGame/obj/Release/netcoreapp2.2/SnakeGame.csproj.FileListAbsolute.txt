@@ -1,0 +1,11 @@
+C:\Users\Chefo1993\source\repos\SnakeGame\SnakeGame\bin\Release\netcoreapp2.2\SnakeGame.deps.json
+C:\Users\Chefo1993\source\repos\SnakeGame\SnakeGame\bin\Release\netcoreapp2.2\SnakeGame.runtimeconfig.json
+C:\Users\Chefo1993\source\repos\SnakeGame\SnakeGame\bin\Release\netcoreapp2.2\SnakeGame.runtimeconfig.dev.json
+C:\Users\Chefo1993\source\repos\SnakeGame\SnakeGame\bin\Release\netcoreapp2.2\SnakeGame.dll
+C:\Users\Chefo1993\source\repos\SnakeGame\SnakeGame\bin\Release\netcoreapp2.2\SnakeGame.pdb
+C:\Users\Chefo1993\source\repos\SnakeGame\SnakeGame\obj\Release\netcoreapp2.2\SnakeGame.csproj.CoreCompileInputs.cache
+C:\Users\Chefo1993\source\repos\SnakeGame\SnakeGame\obj\Release\netcoreapp2.2\SnakeGame.AssemblyInfoInputs.cache
+C:\Users\Chefo1993\source\repos\SnakeGame\SnakeGame\obj\Release\netcoreapp2.2\SnakeGame.AssemblyInfo.cs
+C:\Users\Chefo1993\source\repos\SnakeGame\SnakeGame\obj\Release\netcoreapp2.2\SnakeGame.dll
+C:\Users\Chefo1993\source\repos\SnakeGame\SnakeGame\obj\Release\netcoreapp2.2\SnakeGame.pdb
+C:\Users\Chefo1993\source\repos\SnakeGame\SnakeGame\obj\Release\netcoreapp2.2\SnakeGame.csprojAssemblyReference.cache
