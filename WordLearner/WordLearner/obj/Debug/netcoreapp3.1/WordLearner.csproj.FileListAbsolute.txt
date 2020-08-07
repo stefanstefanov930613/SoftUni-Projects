@@ -1,0 +1,13 @@
+C:\Users\Chefo1993\source\repos\WordLearner\WordLearner\bin\Debug\netcoreapp3.1\WordLearner.exe
+C:\Users\Chefo1993\source\repos\WordLearner\WordLearner\bin\Debug\netcoreapp3.1\WordLearner.deps.json
+C:\Users\Chefo1993\source\repos\WordLearner\WordLearner\bin\Debug\netcoreapp3.1\WordLearner.runtimeconfig.json
+C:\Users\Chefo1993\source\repos\WordLearner\WordLearner\bin\Debug\netcoreapp3.1\WordLearner.runtimeconfig.dev.json
+C:\Users\Chefo1993\source\repos\WordLearner\WordLearner\bin\Debug\netcoreapp3.1\WordLearner.dll
+C:\Users\Chefo1993\source\repos\WordLearner\WordLearner\bin\Debug\netcoreapp3.1\WordLearner.pdb
+C:\Users\Chefo1993\source\repos\WordLearner\WordLearner\obj\Debug\netcoreapp3.1\WordLearner.csprojAssemblyReference.cache
+C:\Users\Chefo1993\source\repos\WordLearner\WordLearner\obj\Debug\netcoreapp3.1\WordLearner.AssemblyInfoInputs.cache
+C:\Users\Chefo1993\source\repos\WordLearner\WordLearner\obj\Debug\netcoreapp3.1\WordLearner.AssemblyInfo.cs
+C:\Users\Chefo1993\source\repos\WordLearner\WordLearner\obj\Debug\netcoreapp3.1\WordLearner.csproj.CoreCompileInputs.cache
+C:\Users\Chefo1993\source\repos\WordLearner\WordLearner\obj\Debug\netcoreapp3.1\WordLearner.dll
+C:\Users\Chefo1993\source\repos\WordLearner\WordLearner\obj\Debug\netcoreapp3.1\WordLearner.pdb
+C:\Users\Chefo1993\source\repos\WordLearner\WordLearner\obj\Debug\netcoreapp3.1\WordLearner.genruntimeconfig.cache
