@@ -1,0 +1,10 @@
+C:\Users\Chefo\source\repos\TicTacToe WinForms\TicTacToe WinForms\bin\Debug\TicTacToe WinForms.exe.config
+C:\Users\Chefo\source\repos\TicTacToe WinForms\TicTacToe WinForms\bin\Debug\TicTacToe WinForms.exe
+C:\Users\Chefo\source\repos\TicTacToe WinForms\TicTacToe WinForms\bin\Debug\TicTacToe WinForms.pdb
+C:\Users\Chefo\source\repos\TicTacToe WinForms\TicTacToe WinForms\obj\Debug\TicTacToe WinForms.csprojAssemblyReference.cache
+C:\Users\Chefo\source\repos\TicTacToe WinForms\TicTacToe WinForms\obj\Debug\TicTacToe_WinForms.Form1.resources
+C:\Users\Chefo\source\repos\TicTacToe WinForms\TicTacToe WinForms\obj\Debug\TicTacToe_WinForms.Properties.Resources.resources
+C:\Users\Chefo\source\repos\TicTacToe WinForms\TicTacToe WinForms\obj\Debug\TicTacToe WinForms.csproj.GenerateResource.cache
+C:\Users\Chefo\source\repos\TicTacToe WinForms\TicTacToe WinForms\obj\Debug\TicTacToe WinForms.csproj.CoreCompileInputs.cache
+C:\Users\Chefo\source\repos\TicTacToe WinForms\TicTacToe WinForms\obj\Debug\TicTacToe WinForms.exe
+C:\Users\Chefo\source\repos\TicTacToe WinForms\TicTacToe WinForms\obj\Debug\TicTacToe WinForms.pdb
