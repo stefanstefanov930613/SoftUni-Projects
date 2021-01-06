@@ -1,0 +1,18 @@
+﻿
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<form method="post" action ="/Tweets/SaveToDatabase">
+
+    <textarea name="Text" class="form-control" placeholder="Please enter your tweet here..."></textarea>
+    <small>Max characters: 140</small>
+    <hr />
+    <input type="reset" class="btn btn-secondary" value="Reset" />
+    <input type="submit" class="btn btn-primary" value="Submit" />
+
+</form>
+
+

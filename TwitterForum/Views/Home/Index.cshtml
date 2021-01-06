@@ -1,0 +1,19 @@
+﻿@model List<TweetViewModel>
+@{
+
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to my TwitterApp Demo :)</h1>
+    <p>Create new tweet <a href="/Tweets/Create">here</a>.</p>
+</div>
+
+@foreach (var tweet in Model)
+{
+    <hr />
+    <strong>@tweet.Username:</strong>
+    @tweet.Text
+    <em>(@tweet.CreatedOn)</em>
+
+}
