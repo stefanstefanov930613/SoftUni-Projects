@@ -1,0 +1,13 @@
+C:\Users\Chefo\source\repos\DrumSet\DrumSet\bin\Debug\netcoreapp3.1\DrumSet.exe
+C:\Users\Chefo\source\repos\DrumSet\DrumSet\bin\Debug\netcoreapp3.1\DrumSet.deps.json
+C:\Users\Chefo\source\repos\DrumSet\DrumSet\bin\Debug\netcoreapp3.1\DrumSet.runtimeconfig.json
+C:\Users\Chefo\source\repos\DrumSet\DrumSet\bin\Debug\netcoreapp3.1\DrumSet.runtimeconfig.dev.json
+C:\Users\Chefo\source\repos\DrumSet\DrumSet\bin\Debug\netcoreapp3.1\DrumSet.dll
+C:\Users\Chefo\source\repos\DrumSet\DrumSet\bin\Debug\netcoreapp3.1\DrumSet.pdb
+C:\Users\Chefo\source\repos\DrumSet\DrumSet\obj\Debug\netcoreapp3.1\DrumSet.csprojAssemblyReference.cache
+C:\Users\Chefo\source\repos\DrumSet\DrumSet\obj\Debug\netcoreapp3.1\DrumSet.AssemblyInfoInputs.cache
+C:\Users\Chefo\source\repos\DrumSet\DrumSet\obj\Debug\netcoreapp3.1\DrumSet.AssemblyInfo.cs
+C:\Users\Chefo\source\repos\DrumSet\DrumSet\obj\Debug\netcoreapp3.1\DrumSet.csproj.CoreCompileInputs.cache
+C:\Users\Chefo\source\repos\DrumSet\DrumSet\obj\Debug\netcoreapp3.1\DrumSet.dll
+C:\Users\Chefo\source\repos\DrumSet\DrumSet\obj\Debug\netcoreapp3.1\DrumSet.pdb
+C:\Users\Chefo\source\repos\DrumSet\DrumSet\obj\Debug\netcoreapp3.1\DrumSet.genruntimeconfig.cache

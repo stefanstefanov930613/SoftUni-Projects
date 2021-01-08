@@ -1,0 +1,13 @@
+C:\Users\Chefo\source\repos\SpaceStationEstablishment\SpaceStationEstablishment\bin\Debug\netcoreapp3.1\SpaceStationEstablishment.exe
+C:\Users\Chefo\source\repos\SpaceStationEstablishment\SpaceStationEstablishment\bin\Debug\netcoreapp3.1\SpaceStationEstablishment.deps.json
+C:\Users\Chefo\source\repos\SpaceStationEstablishment\SpaceStationEstablishment\bin\Debug\netcoreapp3.1\SpaceStationEstablishment.runtimeconfig.json
+C:\Users\Chefo\source\repos\SpaceStationEstablishment\SpaceStationEstablishment\bin\Debug\netcoreapp3.1\SpaceStationEstablishment.runtimeconfig.dev.json
+C:\Users\Chefo\source\repos\SpaceStationEstablishment\SpaceStationEstablishment\bin\Debug\netcoreapp3.1\SpaceStationEstablishment.dll
+C:\Users\Chefo\source\repos\SpaceStationEstablishment\SpaceStationEstablishment\bin\Debug\netcoreapp3.1\SpaceStationEstablishment.pdb
+C:\Users\Chefo\source\repos\SpaceStationEstablishment\SpaceStationEstablishment\obj\Debug\netcoreapp3.1\SpaceStationEstablishment.csprojAssemblyReference.cache
+C:\Users\Chefo\source\repos\SpaceStationEstablishment\SpaceStationEstablishment\obj\Debug\netcoreapp3.1\SpaceStationEstablishment.AssemblyInfoInputs.cache
+C:\Users\Chefo\source\repos\SpaceStationEstablishment\SpaceStationEstablishment\obj\Debug\netcoreapp3.1\SpaceStationEstablishment.AssemblyInfo.cs
+C:\Users\Chefo\source\repos\SpaceStationEstablishment\SpaceStationEstablishment\obj\Debug\netcoreapp3.1\SpaceStationEstablishment.csproj.CoreCompileInputs.cache
+C:\Users\Chefo\source\repos\SpaceStationEstablishment\SpaceStationEstablishment\obj\Debug\netcoreapp3.1\SpaceStationEstablishment.dll
+C:\Users\Chefo\source\repos\SpaceStationEstablishment\SpaceStationEstablishment\obj\Debug\netcoreapp3.1\SpaceStationEstablishment.pdb
+C:\Users\Chefo\source\repos\SpaceStationEstablishment\SpaceStationEstablishment\obj\Debug\netcoreapp3.1\SpaceStationEstablishment.genruntimeconfig.cache

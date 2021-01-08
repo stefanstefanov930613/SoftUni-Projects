@@ -1,0 +1,13 @@
+C:\Users\Chefo\source\repos\BombsMatrix\BombsMatrix\bin\Debug\netcoreapp3.1\BombsMatrix.exe
+C:\Users\Chefo\source\repos\BombsMatrix\BombsMatrix\bin\Debug\netcoreapp3.1\BombsMatrix.deps.json
+C:\Users\Chefo\source\repos\BombsMatrix\BombsMatrix\bin\Debug\netcoreapp3.1\BombsMatrix.runtimeconfig.json
+C:\Users\Chefo\source\repos\BombsMatrix\BombsMatrix\bin\Debug\netcoreapp3.1\BombsMatrix.runtimeconfig.dev.json
+C:\Users\Chefo\source\repos\BombsMatrix\BombsMatrix\bin\Debug\netcoreapp3.1\BombsMatrix.dll
+C:\Users\Chefo\source\repos\BombsMatrix\BombsMatrix\bin\Debug\netcoreapp3.1\BombsMatrix.pdb
+C:\Users\Chefo\source\repos\BombsMatrix\BombsMatrix\obj\Debug\netcoreapp3.1\BombsMatrix.AssemblyInfoInputs.cache
+C:\Users\Chefo\source\repos\BombsMatrix\BombsMatrix\obj\Debug\netcoreapp3.1\BombsMatrix.AssemblyInfo.cs
+C:\Users\Chefo\source\repos\BombsMatrix\BombsMatrix\obj\Debug\netcoreapp3.1\BombsMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Chefo\source\repos\BombsMatrix\BombsMatrix\obj\Debug\netcoreapp3.1\BombsMatrix.dll
+C:\Users\Chefo\source\repos\BombsMatrix\BombsMatrix\obj\Debug\netcoreapp3.1\BombsMatrix.pdb
+C:\Users\Chefo\source\repos\BombsMatrix\BombsMatrix\obj\Debug\netcoreapp3.1\BombsMatrix.genruntimeconfig.cache
+C:\Users\Chefo\source\repos\BombsMatrix\BombsMatrix\obj\Debug\netcoreapp3.1\BombsMatrix.csprojAssemblyReference.cache

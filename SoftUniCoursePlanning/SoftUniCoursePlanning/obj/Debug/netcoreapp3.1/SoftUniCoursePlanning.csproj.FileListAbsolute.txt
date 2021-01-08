@@ -1,0 +1,13 @@
+C:\Users\Chefo\source\repos\SoftUniCoursePlanning\SoftUniCoursePlanning\bin\Debug\netcoreapp3.1\SoftUniCoursePlanning.exe
+C:\Users\Chefo\source\repos\SoftUniCoursePlanning\SoftUniCoursePlanning\bin\Debug\netcoreapp3.1\SoftUniCoursePlanning.deps.json
+C:\Users\Chefo\source\repos\SoftUniCoursePlanning\SoftUniCoursePlanning\bin\Debug\netcoreapp3.1\SoftUniCoursePlanning.runtimeconfig.json
+C:\Users\Chefo\source\repos\SoftUniCoursePlanning\SoftUniCoursePlanning\bin\Debug\netcoreapp3.1\SoftUniCoursePlanning.runtimeconfig.dev.json
+C:\Users\Chefo\source\repos\SoftUniCoursePlanning\SoftUniCoursePlanning\bin\Debug\netcoreapp3.1\SoftUniCoursePlanning.dll
+C:\Users\Chefo\source\repos\SoftUniCoursePlanning\SoftUniCoursePlanning\bin\Debug\netcoreapp3.1\SoftUniCoursePlanning.pdb
+C:\Users\Chefo\source\repos\SoftUniCoursePlanning\SoftUniCoursePlanning\obj\Debug\netcoreapp3.1\SoftUniCoursePlanning.AssemblyInfoInputs.cache
+C:\Users\Chefo\source\repos\SoftUniCoursePlanning\SoftUniCoursePlanning\obj\Debug\netcoreapp3.1\SoftUniCoursePlanning.AssemblyInfo.cs
+C:\Users\Chefo\source\repos\SoftUniCoursePlanning\SoftUniCoursePlanning\obj\Debug\netcoreapp3.1\SoftUniCoursePlanning.csproj.CoreCompileInputs.cache
+C:\Users\Chefo\source\repos\SoftUniCoursePlanning\SoftUniCoursePlanning\obj\Debug\netcoreapp3.1\SoftUniCoursePlanning.dll
+C:\Users\Chefo\source\repos\SoftUniCoursePlanning\SoftUniCoursePlanning\obj\Debug\netcoreapp3.1\SoftUniCoursePlanning.pdb
+C:\Users\Chefo\source\repos\SoftUniCoursePlanning\SoftUniCoursePlanning\obj\Debug\netcoreapp3.1\SoftUniCoursePlanning.genruntimeconfig.cache
+C:\Users\Chefo\source\repos\SoftUniCoursePlanning\SoftUniCoursePlanning\obj\Debug\netcoreapp3.1\SoftUniCoursePlanning.csprojAssemblyReference.cache

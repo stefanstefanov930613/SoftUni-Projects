@@ -1,0 +1,13 @@
+C:\Users\Chefo\source\repos\Messages\Messages\bin\Debug\netcoreapp3.1\Messages.exe
+C:\Users\Chefo\source\repos\Messages\Messages\bin\Debug\netcoreapp3.1\Messages.deps.json
+C:\Users\Chefo\source\repos\Messages\Messages\bin\Debug\netcoreapp3.1\Messages.runtimeconfig.json
+C:\Users\Chefo\source\repos\Messages\Messages\bin\Debug\netcoreapp3.1\Messages.runtimeconfig.dev.json
+C:\Users\Chefo\source\repos\Messages\Messages\bin\Debug\netcoreapp3.1\Messages.dll
+C:\Users\Chefo\source\repos\Messages\Messages\bin\Debug\netcoreapp3.1\Messages.pdb
+C:\Users\Chefo\source\repos\Messages\Messages\obj\Debug\netcoreapp3.1\Messages.csprojAssemblyReference.cache
+C:\Users\Chefo\source\repos\Messages\Messages\obj\Debug\netcoreapp3.1\Messages.AssemblyInfoInputs.cache
+C:\Users\Chefo\source\repos\Messages\Messages\obj\Debug\netcoreapp3.1\Messages.AssemblyInfo.cs
+C:\Users\Chefo\source\repos\Messages\Messages\obj\Debug\netcoreapp3.1\Messages.csproj.CoreCompileInputs.cache
+C:\Users\Chefo\source\repos\Messages\Messages\obj\Debug\netcoreapp3.1\Messages.dll
+C:\Users\Chefo\source\repos\Messages\Messages\obj\Debug\netcoreapp3.1\Messages.pdb
+C:\Users\Chefo\source\repos\Messages\Messages\obj\Debug\netcoreapp3.1\Messages.genruntimeconfig.cache

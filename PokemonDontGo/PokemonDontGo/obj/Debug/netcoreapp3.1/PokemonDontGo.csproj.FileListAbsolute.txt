@@ -1,0 +1,13 @@
+C:\Users\Chefo\source\repos\PokemonDontGo\PokemonDontGo\bin\Debug\netcoreapp3.1\PokemonDontGo.exe
+C:\Users\Chefo\source\repos\PokemonDontGo\PokemonDontGo\bin\Debug\netcoreapp3.1\PokemonDontGo.deps.json
+C:\Users\Chefo\source\repos\PokemonDontGo\PokemonDontGo\bin\Debug\netcoreapp3.1\PokemonDontGo.runtimeconfig.json
+C:\Users\Chefo\source\repos\PokemonDontGo\PokemonDontGo\bin\Debug\netcoreapp3.1\PokemonDontGo.runtimeconfig.dev.json
+C:\Users\Chefo\source\repos\PokemonDontGo\PokemonDontGo\bin\Debug\netcoreapp3.1\PokemonDontGo.dll
+C:\Users\Chefo\source\repos\PokemonDontGo\PokemonDontGo\bin\Debug\netcoreapp3.1\PokemonDontGo.pdb
+C:\Users\Chefo\source\repos\PokemonDontGo\PokemonDontGo\obj\Debug\netcoreapp3.1\PokemonDontGo.AssemblyInfoInputs.cache
+C:\Users\Chefo\source\repos\PokemonDontGo\PokemonDontGo\obj\Debug\netcoreapp3.1\PokemonDontGo.AssemblyInfo.cs
+C:\Users\Chefo\source\repos\PokemonDontGo\PokemonDontGo\obj\Debug\netcoreapp3.1\PokemonDontGo.csproj.CoreCompileInputs.cache
+C:\Users\Chefo\source\repos\PokemonDontGo\PokemonDontGo\obj\Debug\netcoreapp3.1\PokemonDontGo.dll
+C:\Users\Chefo\source\repos\PokemonDontGo\PokemonDontGo\obj\Debug\netcoreapp3.1\PokemonDontGo.pdb
+C:\Users\Chefo\source\repos\PokemonDontGo\PokemonDontGo\obj\Debug\netcoreapp3.1\PokemonDontGo.genruntimeconfig.cache
+C:\Users\Chefo\source\repos\PokemonDontGo\PokemonDontGo\obj\Debug\netcoreapp3.1\PokemonDontGo.csprojAssemblyReference.cache

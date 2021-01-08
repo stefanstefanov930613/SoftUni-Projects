@@ -1,0 +1,13 @@
+C:\Users\Chefo\source\repos\SeashellTreasure\SeashellTreasure\bin\Debug\netcoreapp3.1\SeashellTreasure.exe
+C:\Users\Chefo\source\repos\SeashellTreasure\SeashellTreasure\bin\Debug\netcoreapp3.1\SeashellTreasure.deps.json
+C:\Users\Chefo\source\repos\SeashellTreasure\SeashellTreasure\bin\Debug\netcoreapp3.1\SeashellTreasure.runtimeconfig.json
+C:\Users\Chefo\source\repos\SeashellTreasure\SeashellTreasure\bin\Debug\netcoreapp3.1\SeashellTreasure.runtimeconfig.dev.json
+C:\Users\Chefo\source\repos\SeashellTreasure\SeashellTreasure\bin\Debug\netcoreapp3.1\SeashellTreasure.dll
+C:\Users\Chefo\source\repos\SeashellTreasure\SeashellTreasure\bin\Debug\netcoreapp3.1\SeashellTreasure.pdb
+C:\Users\Chefo\source\repos\SeashellTreasure\SeashellTreasure\obj\Debug\netcoreapp3.1\SeashellTreasure.csprojAssemblyReference.cache
+C:\Users\Chefo\source\repos\SeashellTreasure\SeashellTreasure\obj\Debug\netcoreapp3.1\SeashellTreasure.AssemblyInfoInputs.cache
+C:\Users\Chefo\source\repos\SeashellTreasure\SeashellTreasure\obj\Debug\netcoreapp3.1\SeashellTreasure.AssemblyInfo.cs
+C:\Users\Chefo\source\repos\SeashellTreasure\SeashellTreasure\obj\Debug\netcoreapp3.1\SeashellTreasure.csproj.CoreCompileInputs.cache
+C:\Users\Chefo\source\repos\SeashellTreasure\SeashellTreasure\obj\Debug\netcoreapp3.1\SeashellTreasure.dll
+C:\Users\Chefo\source\repos\SeashellTreasure\SeashellTreasure\obj\Debug\netcoreapp3.1\SeashellTreasure.pdb
+C:\Users\Chefo\source\repos\SeashellTreasure\SeashellTreasure\obj\Debug\netcoreapp3.1\SeashellTreasure.genruntimeconfig.cache
